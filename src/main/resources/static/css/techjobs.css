@@ -13,7 +13,7 @@ tr:nth-child(odd) {
 table.job-listing {
     margin: 30px auto;
     border: 1px solid #e4e4e4;
-    width: 80%;
+    width: 100%;
 }
 
 table.job-listing td:first-child {
@@ -21,7 +21,7 @@ table.job-listing td:first-child {
 }
 
 table.job-listing td:last-child {
-    width: 80%;
+    width: 100%;
 }
 
 label {
